@@ -13,6 +13,7 @@
 		AF0AF91728955AF300F3D525 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF0AF91628955AF300F3D525 /* Preview Assets.xcassets */; };
 		AF0AF91E28957B2200F3D525 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0AF91D28957B2200F3D525 /* ImagePicker.swift */; };
 		AF0AF92028957CAF00F3D525 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0AF91F28957CAF00F3D525 /* Coordinator.swift */; };
+		AF0AF92428994B8F00F3D525 /* UIImageExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0AF92328994B8F00F3D525 /* UIImageExtensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		AF0AF91628955AF300F3D525 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AF0AF91D28957B2200F3D525 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 		AF0AF91F28957CAF00F3D525 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		AF0AF92328994B8F00F3D525 /* UIImageExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AF0AF91128955AF100F3D525 /* ContentView.swift */,
 				AF0AF91F28957CAF00F3D525 /* Coordinator.swift */,
 				AF0AF91D28957B2200F3D525 /* ImagePicker.swift */,
+				AF0AF92328994B8F00F3D525 /* UIImageExtensions.swift */,
 				AF0AF91328955AF300F3D525 /* Assets.xcassets */,
 				AF0AF91528955AF300F3D525 /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				AF0AF92028957CAF00F3D525 /* Coordinator.swift in Sources */,
 				AF0AF91E28957B2200F3D525 /* ImagePicker.swift in Sources */,
+				AF0AF92428994B8F00F3D525 /* UIImageExtensions.swift in Sources */,
 				AF0AF91228955AF100F3D525 /* ContentView.swift in Sources */,
 				AF0AF91028955AF100F3D525 /* CameraAppApp.swift in Sources */,
 			);
